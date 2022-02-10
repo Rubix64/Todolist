@@ -1,2 +1,2 @@
 # Todolist
-In Javascript
+A simple todolist in Javascript
